@@ -11,6 +11,10 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
   }
+.card-img {
+    height: 250px;
+    width: 250px;
+}
 footer{
     text-align: center;
 }
