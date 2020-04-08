@@ -18,3 +18,15 @@ body {
 footer{
     text-align: center;
 }
+
+#about-me {
+    color: white;
+}
+
+.res {
+    color: red;
+}
+
+#email {
+    color: red;
+}
